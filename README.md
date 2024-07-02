@@ -10,11 +10,7 @@ Hello! My name is Mohsen, I am passionate about studying systems, particularly, 
 - 🌐 **Website**: [https://sites.google.com/view/mohsen-raoufi](https://sites.google.com/view/mohsen-raoufi)
 
 
-
-
-## My Skills
-
-### Programming Languages
+## Programming Languages
 - C++
 - Julia
 - Matlab
@@ -25,8 +21,8 @@ Hello! My name is Mohsen, I am passionate about studying systems, particularly, 
 ### [LARS: Light Augmented Reality System for Collective Robotic Systems](https://github.com/mohsen-raoufi/LARS)💡🔦🤖
 An open-source system that creates a mixed reality environment by augmenting light to the real world to enhance the (collective) robotic experiments. 
 
-### [Heterogeneous Collective Opinion Dynamics](https://github.com/mohsen-raoufi/uncertainty_opinion_dynamic) 🗣️📣🕸️
-Simulation of Heterogeneous Collective Opinion Dynamics with Bayesian updating rule. A collaboration with Vito Mengers.
+### [Heterogeneous Collective Opinion Dynamics](https://github.com/mohsen-raoufi/uncertainty_opinion_dynamic) 🗣️📣
+Simulation of Collective Opinion Dynamics on heterogeneous networks and opinions. A collaboration with Vito Mengers.
 
 ### [Individuality in Kilobots](https://github.com/mohsen-raoufi/Kilobots-Individuality-ALife-23) 🔴🟣🔵🤖
 An updated simulator of Kilobots with heterogeneous heading biases in ARGoS simulator. 
