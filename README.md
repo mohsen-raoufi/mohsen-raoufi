@@ -7,7 +7,7 @@ Hello! My name is Mohsen, I am passionate about studying systems, particularly, 
 - 📧 **Email**: mohsenraoufi@icloud.com
 - 🌐 **Website**: [https://sites.google.com/view/mohsen-raoufi](https://sites.google.com/view/mohsen-raoufi)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohsen-raoufi/)
-- [![X (formerly Twitter)](https://img.shields.io/twitter/follow/:mohsen_raoufi)](https://twitter.com/mohsen_raoufi)
+- [![X](https://img.shields.io/twitter/:mohsen_raoufi)](https://twitter.com/mohsen_raoufi)
 - [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=P9A5OrEAAAAJ&hl=en)
 
 
