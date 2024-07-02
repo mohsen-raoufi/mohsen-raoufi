@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome to My Profile! 👋
 
 ## About Me
 
@@ -6,9 +6,7 @@ Hello! My name is Mohsen, I am passionate about studying systems, particularly, 
 
 - 📧 **Email**: mohsenraoufi@icloud.com
 - 🌐 **Website**: [https://sites.google.com/view/mohsen-raoufi](https://sites.google.com/view/mohsen-raoufi)
-- - 💼 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/mohsen-raoufi/))
-
-- 💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/mohsen-raoufi/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/mohsen-raoufi/))
 
 ## My Skills
 
