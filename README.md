@@ -4,9 +4,10 @@
 
 Hello! My name is Mohsen, I am passionate about studying systems, particularly, collectives, and understanding their dynamics. I love to share what I do for my research. Here on my GitHub profile, you will find a collection of my projects, contributions, and experiments in various areas of software development. Most projects have something to do with Robots, Networks, Agent-Based Models, Collectives, and things in between. Feel Free to reach out to me.
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohsen-raoufi/) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:mohsen_raoufi)](https://twitter.com/mohsen_raoufi) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=P9A5OrEAAAAJ&hl=en)
 - 📧 **Email**: mohsenraoufi@icloud.com
 - 🌐 **Website**: [https://sites.google.com/view/mohsen-raoufi](https://sites.google.com/view/mohsen-raoufi)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohsen-raoufi/) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:mohsen_raoufi)](https://twitter.com/mohsen_raoufi) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=P9A5OrEAAAAJ&hl=en)
+
 
 
 
