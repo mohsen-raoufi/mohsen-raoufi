@@ -18,13 +18,17 @@ Hello! My name is Mohsen, I am passionate about studying systems, particularly, 
 
 ## Selected Projects
 
+### [Messengers: Breaking Echo Chambers in Collective Opinion Dynamics with Homophily](https://github.com/mohsen-raoufi/messengers) 💭🔴🟣🔵💭
+Simulation of conformity in opinion dynamics with homophily in spatial collective system.
+
+<!---
 ### [LARS: Light Augmented Reality System for Collective Robotic Systems](https://github.com/mohsen-raoufi/LARS)💡🔦🤖
 An open-source system that creates a mixed reality environment by augmenting light to the real world to enhance the (collective) robotic experiments. 
 
 ### [Heterogeneous Collective Opinion Dynamics](https://github.com/mohsen-raoufi/uncertainty_opinion_dynamic) 🗣️📣
-Simulation of Collective Opinion Dynamics on heterogeneous networks and opinions. A collaboration with Vito Mengers.
+Simulation of Collective Opinion Dynamics on heterogeneous networks and opinions. A collaboration with Vito Mengers. -->
 
-### [Individuality in Kilobots](https://github.com/mohsen-raoufi/Kilobots-Individuality-ALife-23) 🔴🟣🔵🤖
+### [Individuality in Kilobots](https://github.com/mohsen-raoufi/Kilobots-Individuality-ALife-23) 🔵🟢🟡🟠🤖
 An updated simulator of Kilobots with heterogeneous heading biases in ARGoS simulator. 
 
 ### [KN2C Small-Size Soccer Robot Team Repo](https://github.com/mohsen-raoufi/KN2C-SSL) ⚽️🤖
